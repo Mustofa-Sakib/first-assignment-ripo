@@ -1,0 +1,223 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-width h1 {
+    font-size: 70px;
+    color: rgb(243, 43, 8);
+    text-align: center;
+}
+
+.first-width p {
+    font-size: 50px;
+    color: rgb(235, 232, 21);
+    text-align: center;
+}
+
+.first-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('./images/donation18.jpg');
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.info-width h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
+
+.info-width p {
+    font-size: 40px;
+    text-align: center;
+}
+
+.foundation-info {
+    box-shadow: 5px 5px 25px silver;
+    padding: 20px;
+    margin: auto;
+}
+
+.info-container {
+    background-image: url('./frame/frame\ 5.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.second-width h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.second-width p {
+    font-size: 40px;
+    text-align: center;
+}
+
+.taka {
+    box-shadow: 5px 5px 25px silver;
+    padding: 50px;
+    margin: auto;
+}
+
+.second-box {
+    background: rgb(235, 171, 171);
+    border: 3px solid red;
+}
+
+.donate-amount {
+    display: flex;
+}
+
+.other-amount {
+    text-align: center;
+}
+
+.donate-plan h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.donate-plan p {
+    font-size: 40px;
+    text-align: center;
+}
+
+.third-container {
+    display: flex;
+}
+
+.plan-first-box {
+    background: rgb(250, 206, 206);
+    width: 30%;
+    margin: 3%;
+    box-shadow: 5px 5px silver;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.plan-second-box {
+    background: rgb(247, 238, 116);
+    width: 30%;
+    margin: 3%;
+    box-shadow: 5px 5px silver;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.plan-third-box {
+    background: rgb(137, 208, 255);
+    width: 30%;
+    margin: 3%;
+    box-shadow: 5px 5px silver;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.contribute-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.forth-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.forth-width img {
+    width: 80%;
+    border-radius: 5%;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.input {
+
+    width: 50%;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: .3s;
+}
+
+.input:focus {
+    border-color: dodgerblue;
+    box-shadow: 0 0 8px 0 dodgerblue;
+}
+
+.sixth-width h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.sixth-width p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.email {
+    margin-left: 30%;
+}
+
+.subscribe {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 20px;
+    margin-top: 7px;
+    margin-left: 10px;
+    height: 20px;
+    color: white;
+    font-weight: 500;
+    border-radius: 10px;
+}
+
+.seventh-width {
+    justify-content: center;
+    background-color: bisque;
+    width: 50%;
+    padding: 20px;
+    margin-left: 30%;
+}
+
+.eight-width {
+    background-color: black;
+}
+
+.eight-width h1 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-family: cursive;
+}
+
+.eight-width p {
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: cursive;
+}
